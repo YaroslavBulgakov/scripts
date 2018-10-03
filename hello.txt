@@ -11,3 +11,5 @@ class AlphaCounter():
 			print(i)
 			i-=1
 			
+class drove():
+	pass
