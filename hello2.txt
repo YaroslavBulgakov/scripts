@@ -1,3 +1,5 @@
+class Some():
+	pass
 class AlphaCounter():
 	def __init__(self,start,end)
 		self.start=start
