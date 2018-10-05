@@ -9,5 +9,8 @@ class AlphaCounter():
 		i=end
 		while i!=start:
 			print(i)
-			i-=1
 			
+			
+class New2():
+	def send:
+		pass
